@@ -1,0 +1,63 @@
+# Credentials and local environment
+.env
+.env.*
+*.env
+*.key
+*key*
+*.pem
+*.p12
+*.pfx
+*token*
+*cookie*
+*secret*
+*credential*
+
+# Private project records
+evidence/
+reports/
+learning/
+sources/
+DAILY.md
+CANVAS.md
+SCOREBOARD.md
+CAPABILITY.md
+
+# Local/generated outputs
+output/
+data/
+dist/
+build/
+tmp/
+temp/
+*.log
+
+# Unreviewed or licensed media assets
+assets/
+materials/
+assets/private/
+assets/unlicensed/
+media/private/
+media/unlicensed/
+*.mp4
+*.mov
+*.m4v
+*.mp3
+*.wav
+*.srt
+*.aac
+*.flac
+*.ttf
+*.otf
+
+# Python/Node local files
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
