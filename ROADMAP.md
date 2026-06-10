@@ -62,7 +62,7 @@
 - 学习内容：README、LICENSE、docs、examples、Agent/Skill 说明、公开/非公开边界、发布合规检查。
 - 实现内容：创建 `README.md`、`LICENSE`、`.gitignore`、`docs/`、`examples/`、`agents/README.md` 和 `skills/README.md`。
 - 验收标准：公开文件不包含 API Key、token、Cookie、账号信息、私人 evidence 原始记录或未授权媒体素材。
-- 当前状态：已完成初版发布。task-008 已完成开源发布文件准备，初版已推送到 GitHub；task-010 进行发布后文档完善。
+- 当前状态：已完成初版发布。`v0.1.0 - Initial Open Source Release` 已发布到 GitHub；task-010 已完成发布后文档完善，task-012 已完成 Release 引用收尾。
 
 ## Stage 8：发布后项目完善
 
@@ -70,4 +70,12 @@
 - 学习内容：贡献指南、安全策略、更新日志、Issue 模板、PR 模板和版本发布说明。
 - 实现内容：完善 `CONTRIBUTING.md`、`SECURITY.md`、`CHANGELOG.md`、`.github/ISSUE_TEMPLATE/` 和 `.github/PULL_REQUEST_TEMPLATE.md`。
 - 验收标准：新贡献者能理解如何提交 Agent、Skill、文档和示例；安全问题有报告路径；版本变更有记录。
-- 当前状态：进行中。下一步计划创建 GitHub Release `v0.1.0`，并继续完善贡献和安全流程。
+- 当前状态：进行中。GitHub Release `v0.1.0` 已发布；下一步继续完善贡献流程、安全流程、版本治理和后续自动化能力验证。
+
+## Stage 9：版本治理与后续迭代
+
+- 阶段目标：建立稳定的版本说明、发布节奏和后续功能路线。
+- 学习内容：语义化版本、Release notes、变更日志维护、兼容性说明和公开安全边界。
+- 实现内容：新增 `docs/versioning.md`，在 README 和 CHANGELOG 中引用当前 Release。
+- 验收标准：用户能从 README、CHANGELOG 和 docs 中确认当前版本、发布内容和限制。
+- 当前状态：进行中。`v0.1.0` 已发布，后续版本将继续围绕多 Agent 实战、文档清理、Release 自动化和视频原型能力推进。

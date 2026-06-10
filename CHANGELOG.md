@@ -2,9 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
-## v0.1.0 - Initial Open Source Release
+## [v0.1.0 - Initial Open Source Release](https://github.com/weiquanjin1-byte/codex-video-assistant/releases/tag/v0.1.0)
 
 Initial public release of `codex-video-assistant`.
+
+Release notes: Initial open source release of Codex Video Assistant.
 
 ### Added
 

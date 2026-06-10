@@ -1,10 +1,14 @@
 # codex-video-assistant
 
+[![Release](https://img.shields.io/github/v/release/weiquanjin1-byte/codex-video-assistant?display_name=tag)](https://github.com/weiquanjin1-byte/codex-video-assistant/releases/tag/v0.1.0)
+
 An open workflow project for training Codex into a learning, planning, reviewing, and compliance-aware AI video editing assistant.
 
 ## Project Status
 
 Initial open source release completed.
+
+Current release: [v0.1.0 - Initial Open Source Release](https://github.com/weiquanjin1-byte/codex-video-assistant/releases/tag/v0.1.0)
 
 This public repository contains workflow documentation, agent definitions, skills, examples, an aesthetic scoring rubric, and compliance guidance. It does not include private media assets, platform credentials, internal learning records, API keys, tokens, cookies, account data, or unpublished production materials.
 
