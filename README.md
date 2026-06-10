@@ -2,6 +2,12 @@
 
 An open workflow project for training Codex into a learning, planning, reviewing, and compliance-aware AI video editing assistant.
 
+## Project Status
+
+Initial open source release completed.
+
+This public repository contains workflow documentation, agent definitions, skills, examples, an aesthetic scoring rubric, and compliance guidance. It does not include private media assets, platform credentials, internal learning records, API keys, tokens, cookies, account data, or unpublished production materials.
+
 ## What Problem This Solves
 
 Short video production is not only about generating a script. A usable assistant needs to connect topic research, script writing, captions, voice style, BGM direction, editing rhythm, aesthetic review, and copyright checks.
@@ -153,10 +159,21 @@ Online mode must not:
 ## Current Limitations
 
 - The project does not automatically bypass or scrape platforms.
+- The project currently does not provide automatic platform trend crawling. Trend research only supports public, authorized, or user-provided data sources.
 - The project does not include licensed BGM, fonts, stock videos, voice assets, or icons.
 - The project does not guarantee that a generated video plan is suitable for publication.
 - Trend, license, and platform rule checks may require manual verification.
 - Evidence files may contain private work records and should be reviewed before publishing.
+
+## Repository Safety
+
+The initial public release intentionally excludes:
+
+- Internal learning records
+- Raw task evidence
+- Reports and private project logs
+- Platform cookies, tokens, API keys, and credentials
+- Private or unlicensed video, image, audio, subtitle, font, icon, BGM, voice, or production assets
 
 ## Disclaimer
 

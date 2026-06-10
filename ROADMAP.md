@@ -62,4 +62,12 @@
 - 学习内容：README、LICENSE、docs、examples、Agent/Skill 说明、公开/非公开边界、发布合规检查。
 - 实现内容：创建 `README.md`、`LICENSE`、`.gitignore`、`docs/`、`examples/`、`agents/README.md` 和 `skills/README.md`。
 - 验收标准：公开文件不包含 API Key、token、Cookie、账号信息、私人 evidence 原始记录或未授权媒体素材。
-- 当前状态：进行中。task-008 已完成开源发布文件准备；Git 仓库初始化和 GitHub 推送待人工执行。
+- 当前状态：已完成初版发布。task-008 已完成开源发布文件准备，初版已推送到 GitHub；task-010 进行发布后文档完善。
+
+## Stage 8：发布后项目完善
+
+- 阶段目标：让公开仓库更完整、更易参与、更安全。
+- 学习内容：贡献指南、安全策略、更新日志、Issue 模板、PR 模板和版本发布说明。
+- 实现内容：完善 `CONTRIBUTING.md`、`SECURITY.md`、`CHANGELOG.md`、`.github/ISSUE_TEMPLATE/` 和 `.github/PULL_REQUEST_TEMPLATE.md`。
+- 验收标准：新贡献者能理解如何提交 Agent、Skill、文档和示例；安全问题有报告路径；版本变更有记录。
+- 当前状态：进行中。下一步计划创建 GitHub Release `v0.1.0`，并继续完善贡献和安全流程。
